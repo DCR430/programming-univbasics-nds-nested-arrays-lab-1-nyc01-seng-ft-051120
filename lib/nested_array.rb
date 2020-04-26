@@ -18,7 +18,7 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
 
-produce=[
+assembled_matrix=[
   ["Eggplant",
   "Grapefruit",
   "Oranges",
