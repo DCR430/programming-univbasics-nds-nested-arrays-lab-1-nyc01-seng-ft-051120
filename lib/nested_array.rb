@@ -23,7 +23,7 @@ assembled_matrix=[
    "Potatoes",
    "Grapes",
    "Avocadoes",
-   "Asparagus"]
+   "Asparagus"],
   ["Grapefruit",
    "Pineapple",
    "Oranges",
