@@ -70,8 +70,9 @@ def matrix_lookup(matrix, row, column)
 end
 
 def matrix_update(matrix, row, column, new_value)
+new_value="Lemons"
 matrix_update= matrix[1][1]
-               matrix[1][1]= "new_value"
+               matrix[1][1]= "Lemons"
                matrix
 
 
