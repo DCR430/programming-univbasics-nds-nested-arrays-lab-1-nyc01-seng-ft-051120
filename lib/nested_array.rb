@@ -61,7 +61,7 @@ end
 
 def matrix_lookup(matrix, row, column)
 
-  matrix_lookup[1][1]
+  matrix_lookup=[1][1]
 
 
 
