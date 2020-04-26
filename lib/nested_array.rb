@@ -71,8 +71,8 @@ end
 
 def matrix_update(matrix, row, column, new_value)
 new_value="Lemons"
-matrix_update= matrix[1][1]
-               matrix[1][1]= "Lemons"
+matrix_update= matrix[0][1]
+               matrix[0][1]= "Lemons"
                matrix
 
 
